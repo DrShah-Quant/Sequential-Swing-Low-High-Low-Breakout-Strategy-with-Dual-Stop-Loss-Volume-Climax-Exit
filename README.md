@@ -1,0 +1,1 @@
+# Sequential-Swing-Low-High-Low-Breakout-Strategy-with-Dual-Stop-Loss-Volume-Climax-Exit
